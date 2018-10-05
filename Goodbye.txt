@@ -1,1 +1,2 @@
-prinln ("hellow")
+prinln ("hellow");
+int y = 56;
