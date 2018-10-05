@@ -1,4 +1,6 @@
 prinln ("hellow");
 ;
+int h = 3;
+
 ;
 ;
